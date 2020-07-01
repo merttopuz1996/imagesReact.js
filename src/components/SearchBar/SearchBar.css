@@ -1,0 +1,6 @@
+.search-bar-container{
+    /* flex bulunduğu alanı kaplar 1 ise */
+    flex: 1;
+    /* sağ soldan 20 px yukarı aşağı 0 */
+    padding: 0 20px;
+}
